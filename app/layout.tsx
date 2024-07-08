@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   title: "Eazie",
   description: "Eazie is a modern banking platform for everyone.",
   icons: {
-    icon: '/icons/icon.svg',
+    icon: '/icons/logo.svg',
   }
 };
 
