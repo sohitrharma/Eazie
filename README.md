@@ -4,8 +4,6 @@ Eazie is a comprehensive financial SaaS platform built with Next.js. It offers s
 
 🌐 [Try Eazie Now](https://eazie.vercel.app/)
 
-📣 Need help or have questions? Join our thriving Discord community with over 34,000 members where users help each other out!
-
 ## 🚀 Key Features
 
 - **🔐 Secure Authentication**: SSR authentication with robust validations and authorization
