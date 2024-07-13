@@ -47,9 +47,37 @@ Ensure you have the following installed:
 
    ```bash
    npm install
-3. Set up environment variables (instructions for setting up .env file)
+3. Set up environment variables:
+   Create a .env file in the root directory of your project and add the following variables:
+
+   ```bash
+   # NEXT
+   NEXT_PUBLIC_SITE_URL=http://localhost:3000
+   
+   # APPWRITE
+   NEXT_PUBLIC_APPWRITE_ENDPOINT=https://cloud.appwrite.io/v1
+   NEXT_PUBLIC_APPWRITE_PROJECT=
+   APPWRITE_DATABASE_ID=
+   APPWRITE_USER_COLLECTION_ID=
+   APPWRITE_ITEM_COLLECTION_ID=
+   APPWRITE_BANK_COLLECTION_ID=
+   APPWRITE_TRANSACTION_COLLECTION_ID=
+   NEXT_APPWRITE_KEY=
+   
+   # PLAID
+   PLAID_CLIENT_ID=
+   PLAID_SECRET=
+   PLAID_ENV=
+   PLAID_PRODUCTS=
+   PLAID_COUNTRY_CODES=
+   
+   # DWOLLA
+   DWOLLA_KEY=
+   DWOLLA_SECRET=
+   DWOLLA_BASE_URL=
+   DWOLLA_ENV=
   
-4. Run the development server:
+5. Run the development server:
    
    ```bash
     npm run dev
