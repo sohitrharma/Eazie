@@ -81,3 +81,10 @@ Ensure you have the following installed:
    
    ```bash
     npm run dev
+
+
+## 👤 Author
+
+Rohit Sharma
+- GitHub: [@sohitrharma](https://github.com/sohitrharma)
+- LinkedIn: [@rohitsanjaysharma](https://linkedin.com/in/rohitsanjaysharma)
